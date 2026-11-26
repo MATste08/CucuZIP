@@ -1,0 +1,2 @@
+# CucuZIP
+A zip compresser
